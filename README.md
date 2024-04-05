@@ -18,7 +18,7 @@ Make some changes to the original files.
 
 > This webpage is live here.
 
-[landing-live-demo](https://diegozencode.github.io/case-study-landing-page-dental/)
+[landing-live-demo](https://diegozencode.github.io/case-study-landing-dental/)
 
 ---
 
